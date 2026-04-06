@@ -1,20 +1,24 @@
-/* .container{
-    text-align: center;
+.container{
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
     flex-direction: column;
-    gap: 70px;
-    padding: 1rem;
-} */
+}
 
+
+.titulo{
+    text-align: center;
+}
 
 .form{
+    margin: 2rem;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     gap: 50px;
+    background: linear-gradient(#0a0092, #000, #000);
 }
 
 .label{
