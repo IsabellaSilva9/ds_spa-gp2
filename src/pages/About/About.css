@@ -8,7 +8,7 @@ color: #fff;
 .hero {
 position: relative;
 height: 60vh;
-background: url('https://images.unsplash.com/photo-1553621042-f6e147245754&#39');
+background-image: url('../assets/img/fundo3.png');
 display: flex;
 align-items: center;
 justify-content: center;
