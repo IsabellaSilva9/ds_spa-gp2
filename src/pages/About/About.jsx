@@ -5,7 +5,7 @@ export default function About() {
 const [texto, setTexto] = useState("Carregando história...");
 
 useEffect(() => {
-fetch("https://api.npoint.io/93bed93a99df4c91044e&quot")
+fetch("https://www.youtube.com/watch?v=wBEQl6eQg4E")
 .then((res) => res.json())
 .then((data) => setTexto(data.texto))
 .catch(() => {
